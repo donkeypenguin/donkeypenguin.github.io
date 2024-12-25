@@ -12,7 +12,7 @@ Development
 - Website:  [https://grin.mw/](https://grin.mw/)
 - Code repository:  [https://github.com/mimblewimble/grin](https://github.com/mimblewimble/grin)
 - Development status:  Active
-- Project Codebase:  Original
+- Project Codebase:  Original, not a derivative work. 
 - Programming Language:  Rust
 - Operating system:  Windows, OS X, Linux
 - Developer(s):  Grin Core Development Team
