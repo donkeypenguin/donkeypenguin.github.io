@@ -1,5 +1,3 @@
-Grin Technical Specifications
-
 Denominations
 - Symbol:  ツ 
 - Code:  GRIN
