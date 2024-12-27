@@ -2,7 +2,7 @@ Denominations
 - Symbol:  ツ 
 - Code:  GRIN
 - Precision:  10−9
-- [Subunits](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L36-L40):
+- [Subunits](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L36-L40): follows SI prefix scheme.
   - Milligrin, a thousandth of a grin
   - Microgrin, a thousandth of a milligrin
   - Nanogrin, smallest unit, takes a billion nanogrin to make a grin
