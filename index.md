@@ -19,7 +19,7 @@ Development
 - Operating system:  Windows, OS X, Linux
 - Developer(s):  Grin Core Development Team
 - Source model:  Open source
-- License:  Apache License Version 2.0
+- Software License:  Apache License Version 2.0
 
 Ledger
 - Timestamping scheme:  Proof-of-work
