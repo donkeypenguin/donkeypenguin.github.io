@@ -10,7 +10,7 @@ Denominations
 Development
 - Original author(s):  Ignotus Peverell
 - Initial release:  v1.0.0 / January 15th, 2019
-- Latest release:  [v5.3.3 / September 16th, 2024](https://grin.mw/download)
+- Latest release:  v5.3.3 / September 16th, 2024
 - Website:  [https://grin.mw/](https://grin.mw/)
 - Code repository:  [https://github.com/mimblewimble/grin](https://github.com/mimblewimble/grin)
 - Development status:  Active
