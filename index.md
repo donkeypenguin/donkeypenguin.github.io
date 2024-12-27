@@ -27,6 +27,8 @@ Ledger
 - Block reward:  ツ60
 - Block time: [1 minute](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L36-L40)
 - Block size: [~1.5MB](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L110C1-L122C42)
+- Average Transaction Size: ~1.76KB
+- Max Transactions per second: ~ 15 transactions per second
 - Difficulty Adjustment: [Damped Weithed Moving Average](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L174)
 - Initial distribution:  No presale of any kind.
 - Circulating supply:  Approx. ツ186,000,000 (December 2024)
