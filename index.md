@@ -26,7 +26,7 @@
 **Development**
 - Original author(s):  Ignotus Peverell
 - Initial release:  v1.0.0 / January 15th, 2019
-- Latest release:  v5.3.3 / September 16th, 2024
+- Latest release:  v5.3.3 / September 16th, 2024[^3]
 - Website:  [https://grin.mw/](https://grin.mw/)
 - Code repository:  [https://github.com/mimblewimble/grin](https://github.com/mimblewimble/grin)
 - Development status:  Active
@@ -40,3 +40,4 @@
 
 [^1]: [Consensus.rs](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs)
 [^2]: [GRIN/USD CoinGecko](https://www.coingecko.com/en/coins/grin)
+[^3]: [Github releases](https://github.com/mimblewimble/grin/releases)
