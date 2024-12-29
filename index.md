@@ -10,10 +10,11 @@ Currency
   - Nanogrin, smallest unit, takes a billion nanogrin to make a grin
 - Initial distribution:  No presale of any kind.
 - Circulating supply:  ~ツ186,000,000 (December 2024)
+- Inflation rate: ~ツ32,400,000 minted each year.
 - Supply limit:  No limit (ツ1/sec, forever)
 
 Ledger
-- Timestamping scheme:  Proof-of-work
+- Timestamping scheme:  Proof-of-work (MimbleWimble)
 - Hash function:  Cuckatoo32
 - Block reward:  ツ60
 - Block time: [1 minute](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L36-L40)
