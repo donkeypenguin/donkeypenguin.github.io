@@ -1,7 +1,7 @@
 **Currency**
 - Symbol:  ツ 
 - Code:  GRIN
-- Precision:  10^−9
+- Precision:  10^−9[^1]
 - Subunits: follows SI prefix scheme[^1]:
   - Milligrin, a thousandth of a grin
   - Microgrin, a thousandth of a milligrin
@@ -14,7 +14,7 @@
 
 **Ledger**
 - Timestamping scheme:  Proof-of-work (MimbleWimble)
-- Hash function:  Cuckatoo32
+- Hash function: Cuckatoo32[^3]
 - Difficulty Adjustment: Damped Weighted Moving Average[^1]
 - Genesis block: 2019-01-15 16:01:26 UTC
 - Block reward:  ツ60[^1]
@@ -40,5 +40,6 @@
 
 [^1]: [Consensus.rs](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs)
 [^2]: [GRIN/USD CoinGecko](https://www.coingecko.com/en/coins/grin)
+[^3]: [tromp/cuckoo](https://github.com/tromp/cuckoo)
 [^3]: [Grin Mainnet Launch](https://github.com/mimblewimble/grin/releases/tag/v1.0.0)
 [^4]: [Latest releases](https://github.com/mimblewimble/grin/releases)
