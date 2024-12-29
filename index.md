@@ -15,11 +15,11 @@
 **Ledger**
 - Timestamping scheme:  Proof-of-work (MimbleWimble)
 - Hash function:  Cuckatoo32
-- Difficulty Adjustment: [Damped Weighted Moving Average](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L174)
+- Difficulty Adjustment: Damped Weighted Moving Average[^1]
 - Genesis block: 2019-01-15 16:01:26 UTC
-- Block reward:  ツ60
-- Block time: [1 minute](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L36-L40)
-- Block size limit: [~1.5MB](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L110C1-L122C42)
+- Block reward:  ツ60[^1]
+- Block time: 1 minute[^1]
+- Block size limit: ~1.5MB[^1]
 - Average Transaction Size: ~1.76KB
 - Max Transaction Throughput: ~15 transactions per second
 
@@ -38,4 +38,4 @@
 - Software License:  Apache License Version 2.0
 
 
-[^1]: [Consensus.rs#L36-L40](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L36-L40)
+[^1]: [Consensus.rs](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs)
