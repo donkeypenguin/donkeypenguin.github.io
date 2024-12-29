@@ -9,7 +9,7 @@ Currency
   - Microgrin, a thousandth of a milligrin
   - Nanogrin, smallest unit, takes a billion nanogrin to make a grin
 - Initial distribution:  No presale of any kind.
-- Circulating supply:  Approx. ツ186,000,000 (December 2024)
+- Circulating supply:  ~ツ186,000,000 (December 2024)
 - Supply limit:  No limit (ツ1/sec, forever)
 
 Ledger
