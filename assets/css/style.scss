@@ -2,4 +2,9 @@
 ---
 
 $conifer: #E8D254;
+
+ul li {
+  list-style-image:url('../images/bullet.png');
+}
+
 @import "{{ site.theme }}";
