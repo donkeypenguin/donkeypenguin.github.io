@@ -9,7 +9,7 @@
   - Microgrin, a thousandth of a milligrin
   - Nanogrin, smallest unit, takes a billion nanogrin to make a grin
 - Initial distribution:  No presale of any kind.
-- Circulating supply:  ~ツ186,000,000 (December 2024)
+- Circulating supply:  ~ツ187,000,000 (December 2024)
 - Inflation rate: ~ツ32,400,000 minted each year.
 - Supply limit:  No limit (ツ1/sec, forever)
 
