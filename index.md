@@ -16,12 +16,12 @@ Currency
 Ledger
 - Timestamping scheme:  Proof-of-work (MimbleWimble)
 - Hash function:  Cuckatoo32
+- Difficulty Adjustment: [Damped Weighted Moving Average](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L174)
 - Block reward:  ツ60
 - Block time: [1 minute](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L36-L40)
 - Block size: [~1.5MB](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L110C1-L122C42)
 - Average Transaction Size: ~1.76KB
 - Max Transaction Throughput: ~15 transactions per second
-- Difficulty Adjustment: [Damped Weighted Moving Average](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L174)
 
 Development
 - Original author(s):  Ignotus Peverell
