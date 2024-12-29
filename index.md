@@ -38,4 +38,4 @@
 - Software License:  Apache License Version 2.0
 
 
-[^1]: Consensus.rs#L36-L40: https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L36-L40
+[^1]: [Consensus.rs#L36-L40](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L36-L40)
