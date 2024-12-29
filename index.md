@@ -20,7 +20,7 @@ Ledger
 - Block time: [1 minute](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L36-L40)
 - Block size: [~1.5MB](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L110C1-L122C42)
 - Average Transaction Size: ~1.76KB
-- Max Transactions per second: ~ 15 transactions per second
+- Max Transaction Throughput: ~15 transactions per second
 - Difficulty Adjustment: [Damped Weighted Moving Average](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L174)
 
 Development
