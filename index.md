@@ -1,6 +1,5 @@
 
 ## Currency
-- Exchange rate:  US$0.03 (December 2024)
 - Symbol:  ツ 
 - Code:  GRIN
 - Precision:  10−9
@@ -8,6 +7,7 @@
   - Milligrin, a thousandth of a grin
   - Microgrin, a thousandth of a milligrin
   - Nanogrin, smallest unit, takes a billion nanogrin to make a grin
+- Exchange rate:  US$0.03 (December 2024)
 - Initial distribution:  No presale of any kind.
 - Circulating supply:  ~ツ187,000,000 (December 2024)
 - Inflation rate: ~ツ32,400,000 minted each year.
