@@ -17,6 +17,7 @@
 - Timestamping scheme:  Proof-of-work (MimbleWimble)
 - Hash function:  Cuckatoo32
 - Difficulty Adjustment: [Damped Weighted Moving Average](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L174)
+- Genesis block: 2019-01-15 16:01:26 UTC
 - Block reward:  ツ60
 - Block time: [1 minute](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L36-L40)
 - Block size: [~1.5MB](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L110C1-L122C42)
