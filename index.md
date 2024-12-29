@@ -39,6 +39,7 @@
 
 
 **Footnotes**
+
 [^1]: [core/src/consensus.rs](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs)
 [^2]: [GRIN/USD CoinGecko](https://www.coingecko.com/en/coins/grin)
 [^3]: [tromp/cuckoo](https://github.com/tromp/cuckoo)
