@@ -20,8 +20,8 @@
 - Block reward:  ツ60[^1]
 - Block time: 1 minute[^1]
 - Block size limit: ~1.5MB[^1]
-- Average Transaction Size: ~1.76KB
-- Max Transaction Throughput: ~15 transactions per second
+- Average Transaction Size: ~1.76KB[^1]
+- Max Transaction Throughput: ~15 transactions per second[^1]
 
 **Development**
 - Original author(s):  Ignotus Peverell
