@@ -2,11 +2,11 @@
 - Symbol:  ツ 
 - Code:  GRIN
 - Precision:  10^−9
-- Subunits: follows SI prefix scheme[^1].
+- Subunits: follows SI prefix scheme[^1]:
   - Milligrin, a thousandth of a grin
   - Microgrin, a thousandth of a milligrin
   - Nanogrin, smallest unit, takes a billion nanogrin to make a grin
-- Exchange rate:  US$0.03 (2024)
+- Exchange rate:  US$0.03 (as of 2024) [^2]
 - Initial distribution:  No presale of any kind.
 - Circulating supply:  ~ツ187,000,000 (December 2024)
 - Inflation rate: ~ツ32,400,000 minted each year.
@@ -39,3 +39,4 @@
 
 
 [^1]: [Consensus.rs](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs)
+[^2]: [GRIN/USD CoinGecko](https://www.coingecko.com/en/coins/grin)
