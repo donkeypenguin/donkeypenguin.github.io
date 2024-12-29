@@ -1,6 +1,6 @@
 
 ## Currency
-- Exchange rate:  US$0.031 (December 2024)
+- Exchange rate:  US$0.03 (December 2024)
 - Symbol:  ツ 
 - Code:  GRIN
 - Precision:  10−9
