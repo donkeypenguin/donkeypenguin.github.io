@@ -1,5 +1,5 @@
 
-Currency
+# Currency
 - Exchange rate:  US$0.031 (December 2024)
 - Symbol:  ツ 
 - Code:  GRIN
@@ -13,7 +13,7 @@ Currency
 - Inflation rate: ~ツ32,400,000 minted each year.
 - Supply limit:  No limit (ツ1/sec, forever)
 
-Ledger
+# Ledger
 - Timestamping scheme:  Proof-of-work (MimbleWimble)
 - Hash function:  Cuckatoo32
 - Difficulty Adjustment: [Damped Weighted Moving Average](https://github.com/mimblewimble/grin/blob/master/core/src/consensus.rs#L174)
@@ -23,7 +23,7 @@ Ledger
 - Average Transaction Size: ~1.76KB
 - Max Transaction Throughput: ~15 transactions per second
 
-Development
+# Development
 - Original author(s):  Ignotus Peverell
 - Initial release:  v1.0.0 / January 15th, 2019
 - Latest release:  v5.3.3 / September 16th, 2024
